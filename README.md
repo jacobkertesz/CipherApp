@@ -6,8 +6,6 @@ The user can also switch the setting to decrypt instead of encrypt.
 
 The purpose for creating this app was to learn the basics of app development.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/4Xzcg7bQMSY)
 
 # Development Environment
